@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gerry Ho
+- 👋 Hi, I’m Gerry Ho.
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning python programming.
 - 📫 You could reach me via kcho0301@gmail.com
